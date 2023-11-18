@@ -1,0 +1,19 @@
+{
+    "1": {
+        "speach": "Hi",
+        "action": "hi"
+    },
+    "2": {
+        "move": {
+            "forward": 10
+        }
+    },
+    "3": {
+        "speach": "Can you please take out the trash?",
+        "action": "listen"
+    },
+    "4": {
+        "speach": "Thank you!",
+        "action": "admire"
+    }
+}
