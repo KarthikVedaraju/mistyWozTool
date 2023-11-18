@@ -1,19 +1,37 @@
 {
+    "0": {
+        "reset": "body-reset",
+        "description": "Body Reset"
+    },
     "1": {
         "speach": "Hi",
-        "action": "hi"
+        "action": "hi",
+        "description": "Say 'Hi'"
     },
     "2": {
-        "move": {
-            "forward": 10
-        }
+        "speach": "Can you please take out the trash?",
+        "action": "listen",
+        "description": "Say 'Can you please take out the trash'"
     },
     "3": {
-        "speach": "Can you please take out the trash?",
-        "action": "listen"
+        "speach": "Thank you!",
+        "action": "admire",
+        "description": "Say 'Thank you'"
     },
     "4": {
-        "speach": "Thank you!",
-        "action": "admire"
+        "moveForward": 2,
+        "description": "Move to social space"
+    },
+    "5": {
+        "moveBackward": 2,
+        "description": "Leave social space"
+    },
+    "6": {
+        "turnRight": 2,
+        "description": "Turn Right"
+    },
+    "7": {
+        "turnLeft": 2,
+        "description": "Turn Left"
     }
 }

@@ -12,12 +12,12 @@ if(mistyID == 1):
 else:
     misty = Robot("192.168.0.41")
 
-menu = files.readMenuFile(mistyID)
+#menu = files.readMenuFile(mistyID)
 actions = files.readActionFile(mistyID)
 
 def printMenu():
-    for n, command in menu.items():
-        print(f"{n}: {command}")
+    for n, action in actions.items():
+        print(f"{n}: {action['description']}")
 
 
 if __name__ == '__main__':
