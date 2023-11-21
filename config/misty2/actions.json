@@ -1,0 +1,37 @@
+{
+    "0": {
+        "reset": "body-reset",
+        "description": "Body Reset"
+    },
+    "1": {
+        "speach": "Hi",
+        "action": "hi",
+        "description": "Say 'Hi'"
+    },
+    "2": {
+        "speach": "Sure",
+        "action": "listen",
+        "description": "Say 'Sure'"
+    },
+    "3": {
+        "speach": "No Problem!",
+        "action": "admire",
+        "description": "Say 'No Problem"
+    },
+    "4": {
+        "moveForward": 2,
+        "description": "Move to social space"
+    },
+    "5": {
+        "moveBackward": 2,
+        "description": "Leave social space"
+    },
+    "6": {
+        "turnRight": 2,
+        "description": "Turn Right"
+    },
+    "7": {
+        "turnLeft": 2,
+        "description": "Turn Left"
+    }
+}

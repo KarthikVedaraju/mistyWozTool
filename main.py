@@ -8,7 +8,7 @@ menu = None
 actions = None
 
 if(mistyID == 1):
-    misty = Robot("192.168.0.73")
+    misty = Robot("192.168.0.75")
 else:
     misty = Robot("192.168.0.41")
 
