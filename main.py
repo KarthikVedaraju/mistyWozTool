@@ -1,14 +1,16 @@
+#!/usr/bin/python3
+
 from mistyPy.Robot import Robot
 import utils.files as files
 import utils.robot as robot
 
-mistyID = 1
+mistyID = int(input("Misty ID: "))
 misty = None
 menu = None
 actions = None
 
 if(mistyID == 1):
-    misty = Robot("192.168.0.75")
+    misty = Robot("192.168.0.73")
 else:
     misty = Robot("192.168.0.41")
 

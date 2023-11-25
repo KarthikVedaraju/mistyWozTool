@@ -27,11 +27,11 @@
         "description": "Leave social space"
     },
     "6": {
-        "turnRight": 2,
+        "turnRight": 4,
         "description": "Turn Right"
     },
     "7": {
-        "turnLeft": 2,
+        "turnLeft": 4,
         "description": "Turn Left"
     }
 }
