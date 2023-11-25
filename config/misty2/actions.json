@@ -19,18 +19,23 @@
         "description": "Say 'No Problem"
     },
     "4": {
+        "speach": "Done!",
+        "action": "admire",
+        "description": "Say 'Done'"
+    },
+    "5": {
         "moveForward": 8,
         "description": "Move to social space"
     },
-    "5": {
+    "6": {
         "moveBackward": 8,
         "description": "Leave social space"
     },
-    "6": {
+    "7": {
         "turnRight": 4,
         "description": "Turn Right"
     },
-    "7": {
+    "8": {
         "turnLeft": 4,
         "description": "Turn Left"
     }
