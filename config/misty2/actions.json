@@ -19,11 +19,11 @@
         "description": "Say 'No Problem"
     },
     "4": {
-        "moveForward": 2,
+        "moveForward": 8,
         "description": "Move to social space"
     },
     "5": {
-        "moveBackward": 2,
+        "moveBackward": 8,
         "description": "Leave social space"
     },
     "6": {

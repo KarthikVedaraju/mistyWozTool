@@ -14,9 +14,9 @@
         "description": "Say 'Can you please take out the trash'"
     },
     "3": {
-        "speach": "Can you please take out the trash?",
+        "speach": "Thank you!",
         "action": "listen",
-        "description": "Say 'Can you please take out the trash'"
+        "description": "Say 'Thank you'"
     },
     "4": {
         "speach": "You can ask my friend over here to take out the trash for you",
@@ -24,11 +24,11 @@
         "description": "Say 'Ask the human to speak to other robot'"
     },
     "5": {
-        "moveForward": 2,
+        "moveForward": 8,
         "description": "Move to social space"
     },
     "6": {
-        "moveBackward": 2,
+        "moveBackward": 8,
         "description": "Leave social space"
     },
     "7": {

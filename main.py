@@ -27,5 +27,6 @@ if __name__ == '__main__':
         print("-------------------------------")
         printMenu()
         action = input("Action: ")
+        actions = files.readActionFile(mistyID)
         robot.doAction(misty, actions, action)
         
